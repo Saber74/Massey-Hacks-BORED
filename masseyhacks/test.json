@@ -1,0 +1,535 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0100144,
+               "lng" : -81.3361977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.01177347989272,
+                  "lng" : -81.33506712010728
+               },
+               "southwest" : {
+                  "lat" : 43.00907382010728,
+                  "lng" : -81.33776677989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "13a7685251e34debc35ba9013abd01cc3e4bc8c3",
+         "name" : "Cruise Holiday",
+         "opening_hours" : {
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJw2Qhx_nvLogRI5TZlD8ySQY",
+         "reference" : "CmRbAAAAZSNKrHV3Nrjm18LXggWZojQcbSh09r5WsBizkpKrig-fsSBS-PekW1py9f8YwsBS8gqvtYpwWH80_ZYqu2rF_6WMN6lRr5w-EwQKV2WwtEu7mAAyoua_JnC0627B_f9HEhAq21jEajvJ1b6CyBLh6DjAGhTujCmd1XiQunP0sIpDZKRpS3-MuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "1422 Fanshawe Park Rd W, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 42.952488,
+               "lng" : -81.33146200000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.95386592989272,
+                  "lng" : -81.32988342010728
+               },
+               "southwest" : {
+                  "lat" : 42.95116627010727,
+                  "lng" : -81.33258307989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6da6fb3733ffa106f75da139aef38f5bc0536b6d",
+         "name" : "Blowes Travel and Cruise Centres",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1727,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116845700645663067084/photos\"\u003eThe Travel Bug\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwgh8DVfKzawbIbkD9IEcFXgiRKldP3mU4x0p0i39VQS8Mnj0LGGkwUuEiVR-BFow27V0QuHalLLI7sUDM12E-fZlF-IcQIOztEtf-bVu_KpXrEbCeqXNKWLLLQmK2-FzEhBo3jAsPZxRKI9h7C8g5DxuGhS4q-KRBfVwA2uL8OVBDJnIx9Qj5w",
+               "width" : 1727
+            }
+         ],
+         "place_id" : "ChIJHTCPLoXwLogRL_UnMP9owCo",
+         "rating" : 3,
+         "reference" : "CmRbAAAAmctvrV_hdgd0cPYFOnYsxOS3nf1UeI6-dztkUxNbAv21g72y95Posx_gIC0o24RNBPm61iyXHytXHuYK50JztnbkafIOzPFBDvGFsaynDkN7oVa6PwiID3EMDXiCcJyNEhCvtK9oMcSgym_X6dNjDh5dGhTmvyUe6fHLM7dc1eAmP3Xe4mR8vA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "431 Boler Rd, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0255444,
+               "lng" : -81.28333019999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.02689422989272,
+                  "lng" : -81.28198037010726
+               },
+               "southwest" : {
+                  "lat" : 43.02419457010727,
+                  "lng" : -81.28468002989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cb63e608e14a1f6297fbf898c5e386b73d646652",
+         "name" : "Blowes Travel and Cruise Centres",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1790,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103145714949824711786/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJcJ1oDbKKm1ZwTMDasYznIQg8RC4DqfkfE8ZfslMaD5Ju7CdS8lq6vXievgPSH1IQP2tU30noKM6iKJtV6kg4wnaAtD0nZXz01qNIT0Xc25rrlXI0Iai3dUFt89ZEvFrEhDoloocKe-EAezvC9DkDJg0GhSHeokZzj7Nx41_pkqY9b-T7WXECw",
+               "width" : 1781
+            }
+         ],
+         "place_id" : "ChIJy7SoOUXuLogRe-LA7nmZHdQ",
+         "rating" : 5,
+         "reference" : "CmRbAAAANClXeOM9R4ZpHfyWD7eZZM2qeTIvInl3i3E4ygw7YYG1DcqCsmtcH3L1hKBI3bOVpp0bEEOajB3rjdTwiRaVGeCMS3O5nPOvCEOekKZm_Mcre6qODU64TTJ5qFU7bjXgEhCHDngTS5X1JoySZr_5JIo7GhR9hZx5Yh-4aS1B7d33x7Y9MfW9mw",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "1673 Richmond St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0285371,
+               "lng" : -81.284882
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.03003797989273,
+                  "lng" : -81.28303077010727
+               },
+               "southwest" : {
+                  "lat" : 43.02733832010728,
+                  "lng" : -81.28573042989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a08cc795d6f4f3d13e4718b355fbe8eac6e337a7",
+         "name" : "Expedia CruiseShipCenters",
+         "opening_hours" : {
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101698514295045171631/photos\"\u003eMackensey Phibbs\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvYhc1o1sbUiVzKq5385jcHvOcAtP_WKgbVsXvMpakmR_U0wFGWgxVrJt88xCdeg85aphqWbIWPIl1Kl29JQDRDPc2YxtQduersI4GBAlUPolRY3-L_TW_XiqWp5T9FlYEhCaN10e-JNwsW8Vix-plm6vGhSDjThtqxj4ARwOY-p6PivJvLvs2A",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJMeY_ZVruLogR2iSde4atO90",
+         "rating" : 1,
+         "reference" : "CmRbAAAABah6wkDciWzKRN-XuUkPw7gLFI-aCTXGxYQwFKEgpU_3s8XH5Jb8ncPRyqTguJ8CJDkmmKKoxPyK_52O4ZFztZRgqBfCurgLYxw9mkwBMPzzfgey_Lzt6N_MBqymduFbEhCyLU5iD2knYWdQyrMlcYh_GhQHDJ9TYHUBBWPU7SFKkJKb-C0DVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "1735 Richmond St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9691975,
+               "lng" : -81.28061839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.97070962989272,
+                  "lng" : -81.27942627010728
+               },
+               "southwest" : {
+                  "lat" : 42.96800997010728,
+                  "lng" : -81.28212592989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8d3e1a26792b2a05a16e60a97dbde0b4ccf688d2",
+         "name" : "Budget Travel Warehouse Inc",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 281,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107254394921491129551/photos\"\u003eBudget Travel Warehouse Inc\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcVRuQKdleNSeiIVDkU9RL12E9Wzl4WYRiXl-Q25NlJb3e55_33jJAtBHtVj3WVkAgk2XFJpn3TGJ1QkvD0zGiaWFLEFqUAG9I-qjH6ECQAzEyw_f-NBWSGmtmiY-wKDIEhBY-9vnPDxteUk4N2qPRiYMGhQ1WOs343xf6Si3_Z327zMcd3u-KQ",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJpeSlPbvxLogReumSCcKUuog",
+         "rating" : 5,
+         "reference" : "CmRbAAAA4WcCDHGdL0pdL9bpJYXszfg8AJCXXvGlT_0RDw5xQbQSPPtUqVecuIKnR7rv5cDsE_p38f_w3ruUrMKmLSP7I_O70sbZuFITAB0jPOPbT5DnzIrk-xVvlPv4cElhe2IKEhAHXglp9nIxUtWsKmh51QI-GhSj-q3n4xyes5MxDrAUoF3gYE0CHA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "360 Springbank Dr, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9589016,
+               "lng" : -81.2316242
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.96032722989272,
+                  "lng" : -81.22970107010728
+               },
+               "southwest" : {
+                  "lat" : 42.95762757010728,
+                  "lng" : -81.23240072989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "259e442dc5ee32d434fe43d92434d8f9adea1635",
+         "name" : "Expedia CruiseShipCenters",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJW9_hf4LxLogR6PAVCRADN0c",
+         "rating" : 5,
+         "reference" : "CmRbAAAAtdwyAEkqmzsABsbvJjr-1eFfeEkHRsvx9IaOYTXJqk_ap0VphwNn--1TGjXFaGW9Ai5YwUwd2iw8DSQBGDzI5gOYMrAtIUd_bvVSTqjiUmaGNxNT7w3CJE2_Xb8MB9FqEhC-uhQK0TB3-hEwKqFxPhv1GhTfoGY-xKOBuE6f_oP_5Tg3tyOviA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "397 Wellington Rd b, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0254121,
+               "lng" : -81.27871650000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.02676192989272,
+                  "lng" : -81.27736667010728
+               },
+               "southwest" : {
+                  "lat" : 43.02406227010728,
+                  "lng" : -81.28006632989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a2d860fdf41998adf0c171598f025f7a6255f534",
+         "name" : "Transat Travel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ8Xqz3UTuLogRjngKZhdgErM",
+         "reference" : "CmRbAAAAkwt2em-QLHmko6aEMhbsOJ2_IEluakuMIivwMGjTfdg5zzO9GLiYzhxDXp5_wrNOdUOEwCgxXJM_7eBvZFBiHAStNbyNN800Unmfw4TWqt9n6G1YPxDWCtVgEUQHBhtTEhAZjPuRW_Ql3B7Nk6OQYe-uGhTVjrGzq9jLHqlH4wN_I76IczWtzg",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "1680 Richmond St, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0292446,
+               "lng" : -81.28341209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.03074517989272,
+                  "lng" : -81.28214377010728
+               },
+               "southwest" : {
+                  "lat" : 43.02804552010728,
+                  "lng" : -81.28484342989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "236962df620eb0786d61a4d83374625b5a32b9d8",
+         "name" : "UNIGLOBE Instant Travel Inc",
+         "photos" : [
+            {
+               "height" : 294,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113199454305749455685/photos\"\u003eUNIGLOBE Instant Travel Inc .\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIg3KkwTWfP0OtKQhr4KRPHruQFU-bDn1trKZ16xfforY0v5dTbH192gnLo1BefscavxHa_8c_WV31SsUVcYeAOJAMRksMi3qqQMIoBMcRWQ1CRkTn1Nu0k5ivR3xWy_tEhDj12xRbRaO28zqfqPUZjI3GhQ6I4q-T8klQOOah3_StK2RcYpKPg",
+               "width" : 294
+            }
+         ],
+         "place_id" : "ChIJd155Q1ruLogRxYhS9jvrnQE",
+         "reference" : "CmRbAAAAByr0P8vwQKr0N0mMYDcTaKH2W_9wsEUdANKzj3GlakOOqBTVraCnLErBeQ-0AlrosU1IBY4fEUQS23c-l9iiNYUoT4FoxiFiSq-gxvslYQxyCvMAPTY_WpaTQ1sPeuHWEhDTxJFtjVmBnNHExtXvXtReGhR2xzeGVOo5JCbNBzPJoWdO4Kp1UQ",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "235 N Centre Rd, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0006362,
+               "lng" : -81.2375862
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.00200817989273,
+                  "lng" : -81.23615427010728
+               },
+               "southwest" : {
+                  "lat" : 42.99930852010728,
+                  "lng" : -81.23885392989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6907212390255ba5a8a09dc5c81e6013150ba304",
+         "name" : "Thames Travel & Tours Ltd",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 806,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110411481897237002856/photos\"\u003eO. Strictest\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_vq0WVJQMNz8QPqdT2h6vtQ949S1-lIUKcn9zE1c9eHI4As3Gkqqozup3Fs9BhePZrITjpH9Ntje4kN_94epRe-EJ9RRtS_1Us6zY1XoCdRf5xxELEk00__3EfnlrznlEhCGyJHGb-8YSQVVjLyBD2uIGhRUM7eAO5NC3kSTq2r-NjDj8zhrGQ",
+               "width" : 664
+            }
+         ],
+         "place_id" : "ChIJV_6UqfHtLogRkhK7c76YJ0A",
+         "rating" : 5,
+         "reference" : "CmRbAAAAZa3ikb-qlyeBTTHRzRelvQSOV4sk12ECIqZGbX4dQdWncwO9zFtHBoLKdImPBrIiPjApCMEJ6VU2uWSWDZ7tiMTBUd9pUmH81uO7V0qiyGsSEMwgNsUAVNvADhvyZQBHEhDttEZsg8P4GTmgWo6Toh5vGhSCJ0ShJ3R1dwYDGfGEtOyKjGsG-A",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "771 Adelaide St N, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 42.98139159999999,
+               "lng" : -81.16364609999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.98269107989272,
+                  "lng" : -81.16248027010728
+               },
+               "southwest" : {
+                  "lat" : 42.97999142010728,
+                  "lng" : -81.16517992989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2222fdc6fdc8c97797bdc046cab25ea12e7480d8",
+         "name" : "Cruise Motors",
+         "opening_hours" : {
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJZ2XG06zyLogRmJHzB4GAvn4",
+         "rating" : 3.2,
+         "reference" : "CmRbAAAAWEoE6x6VfcFzGlNJT6Ion_vwTOxhIc4VLcbr-LlhPGzfiJEthecCsyKB2U-0kXAPGWgXHYsBiyQ8nrcZvYF85bLakbywpQD5ufxSTGf8Zuna5cdFaZEiBTQQad79wgFAEhBJUOFRjL_kN4x4V-WNCFsWGhROA9uvaRQMDubozjV5Tz-k5xp8yA",
+         "scope" : "GOOGLE",
+         "types" : [ "car_dealer", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "92 Clarke Rd, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9889869,
+               "lng" : -81.27744100000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.99053702989273,
+                  "lng" : -81.27574767010728
+               },
+               "southwest" : {
+                  "lat" : 42.98783737010728,
+                  "lng" : -81.27844732989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "aee7f28f606152a610b071063c362d2058e27923",
+         "name" : "Cruises of the World",
+         "place_id" : "ChIJdZHB79zxLogROVzqq_9rtME",
+         "reference" : "CmRbAAAA-tEnzNVUvw7oEP0HqdUS-jFRsXEkTlziY5tQU3P9lcX11gpccDgzoNv3rRIYBwCU2e8bRJvfeVQlvfGjBJPV-UN9aZRlReT0qXxXv4XWcsAeWBz8U1ovOg9KPcnr2H7aEhAyMuaLvQzaNQvsFnCMhL3vGhRZB6rFmLE_sP494tfGLhFDFgYYrA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "101 Cherryhill Blvd, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9323418,
+               "lng" : -81.2256835
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.93369162989271,
+                  "lng" : -81.22433367010728
+               },
+               "southwest" : {
+                  "lat" : 42.93099197010727,
+                  "lng" : -81.22703332989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e98f05912876f910db45ac36cca334439db8af6e",
+         "name" : "Flight Centre White Oaks Mall",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 863,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111444950559398442847/photos\"\u003eFlight Centre White Oaks Mall\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiNIckonUuh4ewNeU3rwsa8tuScecqObOrs4N1B5Pxotu7fS-MzzcVRZZ4Vw4q9XiHMAuTxGyKo4MvG4CE8p61sxwolzS84Zzk_8G0j56Ckbhlk5zD0AFXJlPx6BO7TnfEhAY4fVl7W-CZmmFIZU71cvxGhRBensIA7FsnxfaGSTCDUmSTXyESA",
+               "width" : 717
+            }
+         ],
+         "place_id" : "ChIJ_awFSpTzLogR4hRpozOcY7A",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAA84oPO5fjwVepNM6z2gjZoYELeHLjYaO2OkbZrDw0Ttxt0CjSnJTKKAJ8AkNzYTA09op6GAeOJm67XTn4GA8oFRwN8-v4epQ-vgUQBg_Av2oi7LFXlqjj8V1QHr2M9A2qEhCeNtmQV0BeXDOVNNP5TWspGhTPktDoXCdTV2SnxR8I2YIKveaiTg",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "1105 Wellington Rd #102, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0260982,
+               "lng" : -81.27952599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.02744802989273,
+                  "lng" : -81.27817617010727
+               },
+               "southwest" : {
+                  "lat" : 43.02474837010728,
+                  "lng" : -81.28087582989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1ebc49526dcb5427ea9930982fe06afdd8058a72",
+         "name" : "Flight Centre Masonville",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4191,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102229556980870982501/photos\"\u003eRyan Marttala\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYr63O_Wt0F7sA5tUb00VdgCsb98BMiVh0xXECmqytQoSP0300Q7j0yz5YCwxnn0iQv06N6omGet4X_b5u-sIcgl-n83Lo4Mlh2rTYE4iAyuAjR-T69r9K1je6IJm8YY2EhBA-xyAdTFSEGcak9KD1cKjGhRz2_YHz5i3MbIJnlNZ34z2FX_Qsg",
+               "width" : 2358
+            }
+         ],
+         "place_id" : "ChIJfci1UkPuLogRmAZgrZKMEfg",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAALl18yTiBA6gbhEFFnLwYdbDpOfXW3XWrJhpmTtUA7T2i4zVVMMKi2Z3KIHKNTToUoB_fUoDGvLbo12mIKucFHVW-Vkgmp2p8hPtMjN9aAhWpPkTFojZfhEvkoCzoZi3yEhD5Kn3EuOVOVoemN4zTdXzyGhTdm3byvapSNP56WIY5NDcfIqQ5Eg",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "1680 Richmond St L136, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9303499,
+               "lng" : -81.22533399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.93169972989272,
+                  "lng" : -81.22398417010727
+               },
+               "southwest" : {
+                  "lat" : 42.92900007010728,
+                  "lng" : -81.22668382989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bf7560c59a0f8ad69e4af867182ca34ced47b0cb",
+         "name" : "Transat Travel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJWzVpEZbzLogRIYrN5glSi84",
+         "rating" : 3,
+         "reference" : "CmRbAAAA99mh4fCHlNdU10qSIscP3fzt9biVcqeY3BYu0n-yDtaQicDwn4JPuYXNj2wrbhzqeATBqFqBXafIDTdYnt_2Rn0EIV9mnMnD-NPfoWQ-hUfsQrygMte5_dKiu7ltRQ0ZEhA5D8wfsPcyH_rXB0fdSpY6GhRxOioathQl6NNOzf9Ybtka2DhIFA",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "1105 Wellington Rd, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9889869,
+               "lng" : -81.27744100000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.99053702989273,
+                  "lng" : -81.27574767010728
+               },
+               "southwest" : {
+                  "lat" : 42.98783737010728,
+                  "lng" : -81.27844732989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ae7137b9124637d647313399d29181c41cde3bce",
+         "name" : "Merit Travel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJVTDCAt3xLogRKYAA1D82JoA",
+         "reference" : "CmRbAAAAbz33kdyPTkxaenYf99DzoGbBwOo50_ET2Dx3UjCOBt4o4KhFNwHkdFC24ZCBJp7moaJV9bMI8p-ANGQjrF5KzaZEXFzxJ4xs-5AMJ8YnlSNbKboaj7gFdqknCxgbDL7DEhCK6RdE_K6gq6BJFjJolDG1GhSDcZMQUyJJsNzStNpqxwsa-0O_2g",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "101 Cherryhill Blvd #114, London"
+      }
+   ],
+   "status" : "OK"
+}
